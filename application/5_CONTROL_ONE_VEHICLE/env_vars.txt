@@ -1,0 +1,5 @@
+THRESHOLD = 0.01
+USE_INFERENCE_WITH_HIGHEST_CONFIDENCE = 
+STOP_LABELS = ['prohibitory', 'mandatory', 'danger', 'person']
+UP_COMMAND = \x53\x44\x52\xFE\x7F\x00\x80\x00\x7E\x00\x00\x02\x7B
+STOP_COMMAND = \x53\x44\x52\x7F\x7F\x00\x7F\x00\x7F\x00\x00\x01\xFC

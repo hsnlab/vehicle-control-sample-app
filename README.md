@@ -1,1 +1,3 @@
-# vehicle-control-sample-app
+# Sample application designed for the research paper entitled P4-assisted Seamless Migration of Serverless Applications for Edge Continuum
+
+The application considers vehicles equipped with a camera that records the road ahead and facilities that enable to remotely enable or disable their movement. In this repository, the decomposed application's code can be found under the application directory. The code is adapted to be deployed using our Serverless Deployment Engine. The script used for controlling the application is located under the vehicle-connection-manager directory. The paper provides a detailed description about the application and its deployment layout.
